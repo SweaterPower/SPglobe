@@ -1,0 +1,19 @@
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\bin\Debug\Graph_x3.exe.config
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\bin\Debug\Graph_x3.exe
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\bin\Debug\Graph_x3.pdb
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.Form1.resources
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.exe
+C:\Users\Андрей\Desktop\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.pdb
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\bin\Debug\Graph_x3.exe.config
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\bin\Debug\Graph_x3.exe
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\bin\Debug\Graph_x3.pdb
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.csprojResolveAssemblyReference.cache
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.Form1.resources
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.Properties.Resources.resources
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.csproj.GenerateResource.Cache
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.csproj.CoreCompileInputs.cache
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.exe
+C:\Users\Sweater\Desktop\2 курс\Учёба 4 семестр\ООП\Graph_x3\Graph_x3\obj\Debug\Graph_x3.pdb
